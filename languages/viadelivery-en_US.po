@@ -1,0 +1,389 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ViaDelivery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-29 08:55+0000\n"
+"PO-Revision-Date: 2022-06-16 14:12+0300\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Loco-Version: 2.5.0; wp-5.3\n"
+"X-Domain: viadelivery\n"
+
+#: includes/shipping.php:258 _svn/trunk/includes/shipping.php:243
+#: svn/trunk/includes/shipping.php:243
+#, php-format
+msgid "%s (%s, %s, %d-%d days)"
+msgstr "%s (%s, %s, %d-%d days)"
+
+#: includes/shipping.php:235 _svn/trunk/includes/shipping.php:224
+#: svn/trunk/includes/shipping.php:224
+#, php-format
+msgid "%s from "
+msgstr "%s from "
+
+#: includes/hooks/adminorder.php:50 _svn/trunk/includes/hooks/adminorder.php:50
+#: svn/trunk/includes/hooks/adminorder.php:50
+msgid "Another delivery method was selected"
+msgstr "Another delivery method was selected"
+
+#: includes/shipping.php:167 _svn/trunk/includes/shipping.php:165
+#: svn/trunk/includes/shipping.php:165
+msgid "Appearance"
+msgstr "Appearance"
+
+#: includes/hooks/adminorder.php:165
+#: _svn/trunk/includes/hooks/adminorder.php:163
+#: svn/trunk/includes/hooks/adminorder.php:165
+msgid "Approved"
+msgstr "Approved"
+
+#: includes/helpers/adminorder.php:120
+#: _svn/trunk/includes/helpers/adminorder.php:93
+#: svn/trunk/includes/helpers/adminorder.php:111
+msgid "Are you sure you want to cancel order"
+msgstr "Are you sure you want to cancel order"
+
+#: includes/helpers/adminorder.php:102
+#: _svn/trunk/includes/helpers/adminorder.php:75
+#: svn/trunk/includes/helpers/adminorder.php:93
+msgid "Are you sure you want to submit order"
+msgstr "Are you sure you want to submit order"
+
+#: views/backend/dashboard/auth.php:46
+#: _svn/trunk/views/backend/dashboard/auth.php:32
+#: svn/trunk/views/backend/dashboard/auth.php:32
+msgid "Authorize"
+msgstr "Authorize"
+
+#: includes/hooks/adminorder.php:126 includes/helpers/adminorder.php:121
+#: _svn/trunk/includes/hooks/adminorder.php:126
+#: _svn/trunk/includes/helpers/adminorder.php:94
+#: svn/trunk/includes/hooks/adminorder.php:126
+#: svn/trunk/includes/helpers/adminorder.php:112
+msgid "Cancel delivery"
+msgstr "Cancel delivery"
+
+#: includes/helpers/adminorder.php:60
+#: _svn/trunk/includes/helpers/adminorder.php:58
+#: svn/trunk/includes/helpers/adminorder.php:60
+msgid "Change Delivery Point"
+msgstr "Change Delivery Point"
+
+#: views/backend/order/form.php:6 _svn/trunk/views/backend/order/form.php:6
+#: svn/trunk/views/backend/order/form.php:6
+msgid "Common"
+msgstr "Common"
+
+#: includes/shipping.php:180 _svn/trunk/includes/shipping.php:178
+#: svn/trunk/includes/shipping.php:178
+msgid "CSS-class pickpoint button into checkout form"
+msgstr "CSS-class pickpoint button into checkout form"
+
+#. Description of the plugin
+msgid ""
+"Deliver to your customer at a fraction of the cost of traditional carriers."
+msgstr ""
+"Deliver to your customer at a fraction of the cost of traditional carriers."
+
+#: includes/hooks/adminorder.php:167
+#: _svn/trunk/includes/hooks/adminorder.php:165
+#: svn/trunk/includes/hooks/adminorder.php:167
+msgid "Delivered to pickpoint"
+msgstr "Delivered to pickpoint"
+
+#: includes/shipping.php:133 _svn/trunk/includes/shipping.php:131
+#: svn/trunk/includes/shipping.php:131
+msgid "Dimensions"
+msgstr "Default Package Dimensions"
+
+#: includes/hooks/adminorder.php:166
+#: _svn/trunk/includes/hooks/adminorder.php:164
+#: svn/trunk/includes/hooks/adminorder.php:166
+msgid "Dispatced"
+msgstr "Dispatced"
+
+#: includes/hooks/adminorder.php:169
+#: _svn/trunk/includes/hooks/adminorder.php:167
+#: svn/trunk/includes/hooks/adminorder.php:169
+msgid "Expiring"
+msgstr "Expiring"
+
+#: includes/shipping.php:153 _svn/trunk/includes/shipping.php:151
+#: svn/trunk/includes/shipping.php:151
+msgid "Height, mm"
+msgstr "Height, mm"
+
+#: includes/hooks/kernel.php:49 includes/hooks/kernel.php:50
+#: _svn/trunk/includes/hooks/kernel.php:48
+#: _svn/trunk/includes/hooks/kernel.php:49
+#: svn/trunk/includes/hooks/kernel.php:48
+#: svn/trunk/includes/hooks/kernel.php:49
+msgid "Home"
+msgstr "Home"
+
+#. Author URI of the plugin
+#. URI of the plugin
+msgid "https://via.delivery"
+msgstr "https://via.delivery"
+
+#: views/backend/dashboard/auth.php:7
+#, php-format
+msgid ""
+"If you have no API connection credentials, please fill out the <a href=\"%s"
+"\">registration form</a>."
+msgstr ""
+"If you have no API connection credentials, please fill out the <a href=\"%s"
+"\">registration form</a>."
+
+#. Author of the plugin
+msgid "Via.Delivery Corporation"
+msgstr "Via.Delivery Corporation"
+
+#: includes/shipping.php:160 _svn/trunk/includes/shipping.php:158
+#: svn/trunk/includes/shipping.php:158
+msgid "Length, mm"
+msgstr "Length, mm"
+
+#: includes/helpers/adminorder.php:77 includes/helpers/adminorder.php:85
+#: svn/trunk/includes/helpers/adminorder.php:76
+msgid "Mark paid"
+msgstr "Mark paid"
+
+#: includes/shipping.php:200 _svn/trunk/includes/shipping.php:193
+#: svn/trunk/includes/shipping.php:193
+msgid "Method title into checkout form"
+msgstr "Method title into checkout form"
+
+#: views/backend/order/tab-map.php:2
+#: _svn/trunk/views/backend/order/tab-map.php:2
+#: svn/trunk/views/backend/order/tab-map.php:2
+msgid "Order is created"
+msgstr "Order is created"
+
+#: includes/controllers/adminorder.php:106
+#: _svn/trunk/includes/controllers/adminorder.php:94
+#: svn/trunk/includes/controllers/adminorder.php:106
+msgid "Order status changed from Via.Delivery hook"
+msgstr "Order status changed from Via.Delivery.US hook"
+
+#: includes/controllers/adminorder.php:127
+#: svn/trunk/includes/controllers/adminorder.php:127
+msgid "Payment flag set failure"
+msgstr "Payment flag set failure"
+
+#: includes/controllers/adminorder.php:125
+#: svn/trunk/includes/controllers/adminorder.php:125
+msgid "Payment flag set successfully"
+msgstr "Payment flag set successfully"
+
+#: includes/hooks/adminorder.php:73 _svn/trunk/includes/hooks/adminorder.php:73
+#: svn/trunk/includes/hooks/adminorder.php:73
+msgid "Phone"
+msgstr "Phone"
+
+#: includes/hooks/adminorder.php:168
+#: _svn/trunk/includes/hooks/adminorder.php:166
+#: svn/trunk/includes/hooks/adminorder.php:168
+msgid "Picked Up"
+msgstr "Picked Up"
+
+#: includes/shipping.php:173 _svn/trunk/includes/shipping.php:171
+#: svn/trunk/includes/shipping.php:171
+msgid "Pickpoint selection button title into checkout form"
+msgstr "Pickpoint selection button title into checkout form"
+
+#: includes/helpers/adminorder.php:81
+msgid "Please change order status to pending to enable payment status changing"
+msgstr ""
+"Please change order status to pending to enable payment status changing"
+
+#: includes/hooks/frontorder.php:54 _svn/trunk/includes/hooks/frontorder.php:46
+#: svn/trunk/includes/hooks/frontorder.php:47
+msgid "Please, select point."
+msgstr "Please, select point."
+
+#: views/backend/order/form.php:66 _svn/trunk/views/backend/order/form.php:65
+#: svn/trunk/views/backend/order/form.php:66
+msgid "Save"
+msgstr "Save"
+
+#: includes/shipping.php:117 views/backend/dashboard/auth.php:33
+#: views/backend/dashboard/auth.php:37 _svn/trunk/includes/shipping.php:115
+#: svn/trunk/includes/shipping.php:115
+#: _svn/trunk/views/backend/dashboard/auth.php:19
+#: _svn/trunk/views/backend/dashboard/auth.php:23
+#: svn/trunk/views/backend/dashboard/auth.php:19
+#: svn/trunk/views/backend/dashboard/auth.php:23
+msgid "Secret token"
+msgstr "Secret token"
+
+#: includes/shipping.php:174 includes/hooks/frontorder.php:117
+#: _svn/trunk/includes/shipping.php:172 svn/trunk/includes/shipping.php:172
+#: _svn/trunk/includes/hooks/frontorder.php:85
+#: svn/trunk/includes/hooks/frontorder.php:86
+msgid "Select pickpoint"
+msgstr "Select pickpoint"
+
+#: includes/helpers/adminorder.php:103
+#: _svn/trunk/includes/helpers/adminorder.php:76
+#: svn/trunk/includes/helpers/adminorder.php:94
+msgid "Send order"
+msgstr "Send order"
+
+#: includes/hooks/adminorder.php:125
+#: _svn/trunk/includes/hooks/adminorder.php:125
+#: svn/trunk/includes/hooks/adminorder.php:125
+msgid "Send to Via.Delivery"
+msgstr "Send to Via.Delivery.US"
+
+#: includes/hooks/kernel.php:58 includes/hooks/kernel.php:59
+#: _svn/trunk/includes/hooks/kernel.php:57
+#: _svn/trunk/includes/hooks/kernel.php:58
+#: svn/trunk/includes/hooks/kernel.php:57
+#: svn/trunk/includes/hooks/kernel.php:58
+msgid "Settings"
+msgstr "Settings"
+
+#: includes/hooks/adminorder.php:74 _svn/trunk/includes/hooks/adminorder.php:74
+#: svn/trunk/includes/hooks/adminorder.php:74
+msgid "Shipping address"
+msgstr "Shipping address"
+
+#: includes/shipping.php:104 views/backend/dashboard/auth.php:22
+#: views/backend/dashboard/auth.php:26 _svn/trunk/includes/shipping.php:102
+#: svn/trunk/includes/shipping.php:102
+#: _svn/trunk/views/backend/dashboard/auth.php:8
+#: _svn/trunk/views/backend/dashboard/auth.php:12
+#: svn/trunk/views/backend/dashboard/auth.php:8
+#: svn/trunk/views/backend/dashboard/auth.php:12
+msgid "ShopID"
+msgstr "ShopID"
+
+#. Name of the plugin
+#: includes/shipping.php:67 includes/hooks/kernel.php:38
+#: includes/hooks/kernel.php:39 includes/hooks/adminorder.php:38
+#: includes/hooks/adminorder.php:75 views/backend/dashboard/index.php:4
+#: views/backend/dashboard/auth.php:1 _svn/trunk/includes/shipping.php:67
+#: svn/trunk/includes/shipping.php:67 _svn/trunk/includes/hooks/kernel.php:37
+#: _svn/trunk/includes/hooks/kernel.php:38
+#: _svn/trunk/includes/hooks/adminorder.php:38
+#: _svn/trunk/includes/hooks/adminorder.php:75
+#: svn/trunk/includes/hooks/kernel.php:37
+#: svn/trunk/includes/hooks/kernel.php:38
+#: svn/trunk/includes/hooks/adminorder.php:38
+#: svn/trunk/includes/hooks/adminorder.php:75
+#: _svn/trunk/views/backend/dashboard/index.php:4
+#: _svn/trunk/views/backend/dashboard/auth.php:1
+#: svn/trunk/views/backend/dashboard/index.php:4
+#: svn/trunk/views/backend/dashboard/auth.php:1
+msgid "Via.Delivery"
+msgstr "Via.Delivery.US"
+
+#: views/backend/dashboard/auth.php:16
+msgid "Via.Delivery API настройки подключения"
+msgstr "Via.Delivery.US API connection settings"
+
+#: includes/shipping.php:68 _svn/trunk/includes/shipping.php:68
+#: svn/trunk/includes/shipping.php:68
+msgid "Via.Delivery description"
+msgstr "Via.Delivery.US description"
+
+#: includes/shipping.php:139 _svn/trunk/includes/shipping.php:137
+#: svn/trunk/includes/shipping.php:137
+msgid "Weight, g"
+msgstr "Weight, g"
+
+msgid "Weight, kg"
+msgstr "Weight, kg"
+
+msgid "Weight, lbs"
+msgstr "Weight, lb"
+
+msgid "Weight, oz"
+msgstr "Weight, oz"
+
+#: includes/shipping.php:146 _svn/trunk/includes/shipping.php:144
+#: svn/trunk/includes/shipping.php:144
+msgid "Width, mm"
+msgstr "Width, mm"
+
+msgid "Width, cm"
+msgstr "Width, cm"
+
+msgid "Width, m"
+msgstr "Width, m"
+
+msgid "Width, in"
+msgstr "Width, in"
+
+msgid "Width, yd"
+msgstr "Width, yd"
+
+msgid "Height, cm"
+msgstr "Height, cm"
+
+msgid "Height, m"
+msgstr "Height, m"
+
+msgid "Height, in"
+msgstr "Height, in"
+
+msgid "Height, yd"
+msgstr "Height, yd"
+
+msgid "Length, cm"
+msgstr "Length, cm"
+
+msgid "Length, m"
+msgstr "Length, m"
+
+msgid "Length, in"
+msgstr "Length, in"
+
+msgid "Length, yd"
+msgstr "Length, yd"
+
+msgid "I will pickup at: %s. "
+msgstr "I will pickup at: %s. "
+
+msgid "Address: %s. "
+msgstr "Address: %s. "
+
+msgid "Expected delivery time: %s days."
+msgstr "Expected delivery time: %s days."
+
+msgid "Distance to this pick-up location: %d feet."
+msgstr "Distance to this pick-up location: %d feet."
+
+msgid "Distance to this pick-up location: %1.1f miles."
+msgstr "Distance to this pick-up location: %1.1f miles."
+
+msgid "Delivery by city"
+msgstr "Delivery by city"
+
+msgid "Payments by type"
+msgstr "Payments by type"
+
+msgid "Delivery statuses"
+msgstr "Delivery statuses"
+
+msgid "Number of shipments per day"
+msgstr "Number of shipments per day"
+
+msgid "Store ID"
+msgstr "Store ID"
+
+msgid "The secret key"
+msgstr "The secret key"
+
+msgid "Debug mode title"
+msgstr "Debug mode"
+
+msgid "Debug mode description"
+msgstr "(record logs to detect problems in operation)"

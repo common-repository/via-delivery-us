@@ -1,0 +1,15 @@
+#via_selectpoint_popup {}
+#via_selectpoint_popup {}
+
+#via_selectpoint_popup .close {
+    position: absolute;
+    right: -12px;
+    top: -12px;
+    width: 24px;
+    height: 24px;
+    background: url('../image/close.svg') #fff;
+    content: '';
+    border-radius: 50%;
+    cursor: pointer;
+    opacity: 1;
+}

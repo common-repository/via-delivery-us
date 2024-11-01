@@ -1,0 +1,395 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ViaDelivery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-29 08:55+0000\n"
+"PO-Revision-Date: 2022-06-16 14:12+0300\n"
+"Last-Translator: \n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && n"
+"%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Loco-Version: 2.5.0; wp-5.3\n"
+"X-Domain: viadelivery\n"
+
+#: includes/shipping.php:258 _svn/trunk/includes/shipping.php:243
+#: svn/trunk/includes/shipping.php:243
+#, php-format
+msgid "%s (%s, %s, %d-%d days)"
+msgstr "%s (%s, %s, %d-%d дней)"
+
+#: includes/shipping.php:235 _svn/trunk/includes/shipping.php:224
+#: svn/trunk/includes/shipping.php:224
+#, php-format
+msgid "%s from "
+msgstr "%s от  "
+
+#: includes/hooks/adminorder.php:50 _svn/trunk/includes/hooks/adminorder.php:50
+#: svn/trunk/includes/hooks/adminorder.php:50
+msgid "Another delivery method was selected"
+msgstr "Выбран другой метод доставки"
+
+#: includes/shipping.php:167 _svn/trunk/includes/shipping.php:165
+#: svn/trunk/includes/shipping.php:165
+msgid "Appearance"
+msgstr "Внешний вид"
+
+#: includes/hooks/adminorder.php:165
+#: _svn/trunk/includes/hooks/adminorder.php:163
+#: svn/trunk/includes/hooks/adminorder.php:165
+msgid "Approved"
+msgstr "Согласован"
+
+#: includes/helpers/adminorder.php:120
+#: _svn/trunk/includes/helpers/adminorder.php:93
+#: svn/trunk/includes/helpers/adminorder.php:111
+msgid "Are you sure you want to cancel order"
+msgstr "Вы действительно хотите отменить заказ"
+
+#: includes/helpers/adminorder.php:102
+#: _svn/trunk/includes/helpers/adminorder.php:75
+#: svn/trunk/includes/helpers/adminorder.php:93
+msgid "Are you sure you want to submit order"
+msgstr "Вы действительно хотите отправить заказ"
+
+#: views/backend/dashboard/auth.php:46
+#: _svn/trunk/views/backend/dashboard/auth.php:32
+#: svn/trunk/views/backend/dashboard/auth.php:32
+msgid "Authorize"
+msgstr "Авторизация"
+
+#: includes/hooks/adminorder.php:126 includes/helpers/adminorder.php:121
+#: _svn/trunk/includes/hooks/adminorder.php:126
+#: _svn/trunk/includes/helpers/adminorder.php:94
+#: svn/trunk/includes/hooks/adminorder.php:126
+#: svn/trunk/includes/helpers/adminorder.php:112
+msgid "Cancel delivery"
+msgstr "Отмена доставки"
+
+#: includes/helpers/adminorder.php:60
+#: _svn/trunk/includes/helpers/adminorder.php:58
+#: svn/trunk/includes/helpers/adminorder.php:60
+msgid "Change Delivery Point"
+msgstr "Изменить пункт выдачи"
+
+#: views/backend/order/form.php:6 _svn/trunk/views/backend/order/form.php:6
+#: svn/trunk/views/backend/order/form.php:6
+msgid "Common"
+msgstr "Общие"
+
+#: includes/shipping.php:180 _svn/trunk/includes/shipping.php:178
+#: svn/trunk/includes/shipping.php:178
+msgid "CSS-class pickpoint button into checkout form"
+msgstr "CSS-класс для кнопки выбора точки ПВЗ в форме заказа"
+
+#. Description of the plugin
+msgid ""
+"Deliver to your customer at a fraction of the cost of traditional carriers."
+msgstr ""
+"Deliver to your customer at a fraction of the cost of traditional carriers."
+
+#: includes/hooks/adminorder.php:167
+#: _svn/trunk/includes/hooks/adminorder.php:165
+#: svn/trunk/includes/hooks/adminorder.php:167
+msgid "Delivered to pickpoint"
+msgstr "В пункте выдачи"
+
+#: includes/shipping.php:133 _svn/trunk/includes/shipping.php:131
+#: svn/trunk/includes/shipping.php:131
+msgid "Dimensions"
+msgstr "Размеры упаковки по умолчанию"
+
+#: includes/hooks/adminorder.php:166
+#: _svn/trunk/includes/hooks/adminorder.php:164
+#: svn/trunk/includes/hooks/adminorder.php:166
+msgid "Dispatced"
+msgstr "Отгружен"
+
+#: includes/hooks/adminorder.php:169
+#: _svn/trunk/includes/hooks/adminorder.php:167
+#: svn/trunk/includes/hooks/adminorder.php:169
+msgid "Expiring"
+msgstr "Окончание срока хранения"
+
+#: includes/shipping.php:153 _svn/trunk/includes/shipping.php:151
+#: svn/trunk/includes/shipping.php:151
+msgid "Height, mm"
+msgstr "Высота, мм"
+
+#: includes/hooks/kernel.php:49 includes/hooks/kernel.php:50
+#: _svn/trunk/includes/hooks/kernel.php:48
+#: _svn/trunk/includes/hooks/kernel.php:49
+#: svn/trunk/includes/hooks/kernel.php:48
+#: svn/trunk/includes/hooks/kernel.php:49
+msgid "Home"
+msgstr "Главная"
+
+#. Author URI of the plugin
+#. URI of the plugin
+msgid "https://via.delivery"
+msgstr "https://via.delivery"
+
+#: views/backend/dashboard/auth.php:7
+#, php-format
+msgid ""
+"If you have no API connection credentials, please fill out the <a href=\"%s"
+"\">registration form</a>."
+msgstr ""
+"Если у вас нет реквизитов подключения, пожалуйста, воспользуйтесь формой "
+"регистрации <a href=\"%s\">по ссылке</a>."
+
+#. Author of the plugin
+msgid "Via.Delivery Corporation"
+msgstr "Via.Delivery Corporation"
+
+#: includes/shipping.php:160 _svn/trunk/includes/shipping.php:158
+#: svn/trunk/includes/shipping.php:158
+msgid "Length, mm"
+msgstr "Длина, мм"
+
+#: includes/helpers/adminorder.php:77 includes/helpers/adminorder.php:85
+#: svn/trunk/includes/helpers/adminorder.php:76
+msgid "Mark paid"
+msgstr "Отметить оплаченным"
+
+#: includes/shipping.php:200 _svn/trunk/includes/shipping.php:193
+#: svn/trunk/includes/shipping.php:193
+msgid "Method title into checkout form"
+msgstr "Название метода в форме заказа"
+
+#: views/backend/order/tab-map.php:2
+#: _svn/trunk/views/backend/order/tab-map.php:2
+#: svn/trunk/views/backend/order/tab-map.php:2
+msgid "Order is created"
+msgstr "Заказ успешно отправлен"
+
+#: includes/controllers/adminorder.php:106
+#: _svn/trunk/includes/controllers/adminorder.php:94
+#: svn/trunk/includes/controllers/adminorder.php:106
+msgid "Order status changed from Via.Delivery hook"
+msgstr "Статус заказа изменен с помощью хука Via.Delivery.US"
+
+#: includes/controllers/adminorder.php:127
+#: svn/trunk/includes/controllers/adminorder.php:127
+msgid "Payment flag set failure"
+msgstr "Ошибка установки флага оплаты"
+
+#: includes/controllers/adminorder.php:125
+#: svn/trunk/includes/controllers/adminorder.php:125
+msgid "Payment flag set successfully"
+msgstr "Флаг оплаты успешно установлен"
+
+#: includes/hooks/adminorder.php:73 _svn/trunk/includes/hooks/adminorder.php:73
+#: svn/trunk/includes/hooks/adminorder.php:73
+msgid "Phone"
+msgstr "Телефон"
+
+#: includes/hooks/adminorder.php:168
+#: _svn/trunk/includes/hooks/adminorder.php:166
+#: svn/trunk/includes/hooks/adminorder.php:168
+msgid "Picked Up"
+msgstr "Выдан"
+
+#: includes/shipping.php:173 _svn/trunk/includes/shipping.php:171
+#: svn/trunk/includes/shipping.php:171
+msgid "Pickpoint selection button title into checkout form"
+msgstr "Заголовок кнопки выбора ПВЗ на форме заказа"
+
+#: includes/helpers/adminorder.php:59
+msgid "Please add shipping address into order"
+msgstr "Пожалуйста, укажите адрес доставки"
+
+#: includes/helpers/adminorder.php:81
+msgid "Please change order status to pending to enable payment status changing"
+msgstr ""
+"Измените статус заказа на 'в ожидании оплаты', чтобы разрешить изменение "
+"статуса платежа"
+
+#: includes/hooks/frontorder.php:54 _svn/trunk/includes/hooks/frontorder.php:46
+#: svn/trunk/includes/hooks/frontorder.php:47
+msgid "Please, select point."
+msgstr "Пожалуйста, выберите точку выдачи."
+
+#: views/backend/order/form.php:66 _svn/trunk/views/backend/order/form.php:65
+#: svn/trunk/views/backend/order/form.php:66
+msgid "Save"
+msgstr "Сохранить"
+
+#: includes/shipping.php:117 views/backend/dashboard/auth.php:33
+#: views/backend/dashboard/auth.php:37 _svn/trunk/includes/shipping.php:115
+#: svn/trunk/includes/shipping.php:115
+#: _svn/trunk/views/backend/dashboard/auth.php:19
+#: _svn/trunk/views/backend/dashboard/auth.php:23
+#: svn/trunk/views/backend/dashboard/auth.php:19
+#: svn/trunk/views/backend/dashboard/auth.php:23
+msgid "Secret token"
+msgstr "Секретный токен"
+
+#: includes/shipping.php:174 includes/hooks/frontorder.php:117
+#: _svn/trunk/includes/shipping.php:172 svn/trunk/includes/shipping.php:172
+#: _svn/trunk/includes/hooks/frontorder.php:85
+#: svn/trunk/includes/hooks/frontorder.php:86
+msgid "Select pickpoint"
+msgstr "Выбрать ПВЗ"
+
+#: includes/helpers/adminorder.php:103
+#: _svn/trunk/includes/helpers/adminorder.php:76
+#: svn/trunk/includes/helpers/adminorder.php:94
+msgid "Send order"
+msgstr "Отправить заказ"
+
+#: includes/hooks/adminorder.php:125
+#: _svn/trunk/includes/hooks/adminorder.php:125
+#: svn/trunk/includes/hooks/adminorder.php:125
+msgid "Send to Via.Delivery"
+msgstr "Отправить в Via.Delivery.US"
+
+#: includes/hooks/kernel.php:58 includes/hooks/kernel.php:59
+#: _svn/trunk/includes/hooks/kernel.php:57
+#: _svn/trunk/includes/hooks/kernel.php:58
+#: svn/trunk/includes/hooks/kernel.php:57
+#: svn/trunk/includes/hooks/kernel.php:58
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/hooks/adminorder.php:74 _svn/trunk/includes/hooks/adminorder.php:74
+#: svn/trunk/includes/hooks/adminorder.php:74
+msgid "Shipping address"
+msgstr "Адрес доставки"
+
+#: includes/shipping.php:104 views/backend/dashboard/auth.php:22
+#: views/backend/dashboard/auth.php:26 _svn/trunk/includes/shipping.php:102
+#: svn/trunk/includes/shipping.php:102
+#: _svn/trunk/views/backend/dashboard/auth.php:8
+#: _svn/trunk/views/backend/dashboard/auth.php:12
+#: svn/trunk/views/backend/dashboard/auth.php:8
+#: svn/trunk/views/backend/dashboard/auth.php:12
+msgid "ShopID"
+msgstr "Идентификатор магазина"
+
+#. Name of the plugin
+#: includes/shipping.php:67 includes/hooks/kernel.php:38
+#: includes/hooks/kernel.php:39 includes/hooks/adminorder.php:38
+#: includes/hooks/adminorder.php:75 views/backend/dashboard/index.php:4
+#: views/backend/dashboard/auth.php:1 _svn/trunk/includes/shipping.php:67
+#: svn/trunk/includes/shipping.php:67 _svn/trunk/includes/hooks/kernel.php:37
+#: _svn/trunk/includes/hooks/kernel.php:38
+#: _svn/trunk/includes/hooks/adminorder.php:38
+#: _svn/trunk/includes/hooks/adminorder.php:75
+#: svn/trunk/includes/hooks/kernel.php:37
+#: svn/trunk/includes/hooks/kernel.php:38
+#: svn/trunk/includes/hooks/adminorder.php:38
+#: svn/trunk/includes/hooks/adminorder.php:75
+#: _svn/trunk/views/backend/dashboard/index.php:4
+#: _svn/trunk/views/backend/dashboard/auth.php:1
+#: svn/trunk/views/backend/dashboard/index.php:4
+#: svn/trunk/views/backend/dashboard/auth.php:1
+msgid "Via.Delivery"
+msgstr "Via.Delivery.US"
+
+#: views/backend/dashboard/auth.php:16
+msgid "Via.Delivery API настройки подключения"
+msgstr "Via.Delivery.US API настройки подключения"
+
+#: includes/shipping.php:68 _svn/trunk/includes/shipping.php:68
+#: svn/trunk/includes/shipping.php:68
+msgid "Via.Delivery description"
+msgstr "Via.Delivery.US описание"
+
+#: includes/shipping.php:139 _svn/trunk/includes/shipping.php:137
+#: svn/trunk/includes/shipping.php:137
+msgid "Weight, g"
+msgstr "Вес, г"
+
+msgid "Weight, kg"
+msgstr "Вес, кг"
+
+msgid "Weight, lbs"
+msgstr "Вес, фунт"
+
+msgid "Weight, oz"
+msgstr "Вес, унция"
+
+#: includes/shipping.php:146 _svn/trunk/includes/shipping.php:144
+#: svn/trunk/includes/shipping.php:144
+msgid "Width, mm"
+msgstr "Ширина, мм"
+
+msgid "Width, cm"
+msgstr "Ширина, см"
+
+msgid "Width, m"
+msgstr "Ширина, м"
+
+msgid "Width, in"
+msgstr "Ширина, дюйм"
+
+msgid "Width, yd"
+msgstr "Ширина, ярд"
+
+msgid "Height, cm"
+msgstr "Высота, см"
+
+msgid "Height, m"
+msgstr "Высота, м"
+
+msgid "Height, in"
+msgstr "Высота, дюйм"
+
+msgid "Height, yd"
+msgstr "Высота, ярд"
+
+msgid "Length, cm"
+msgstr "Длина, см"
+
+msgid "Length, m"
+msgstr "Длина, м"
+
+msgid "Length, in"
+msgstr "Длина, дюйм"
+
+msgid "Length, yd"
+msgstr "Длина, ярд"
+
+msgid "I will pickup at: %s. "
+msgstr "Я заберу в: %s. "
+
+msgid "Address: %s. "
+msgstr "Адрес: %s. "
+
+msgid "Expected delivery time: %s days."
+msgstr "Ожидаемое время доставки: %s дней."
+
+msgid "Distance to this pick-up location: %d feet."
+msgstr "Расстояние до этой точки доставки: %d футов."
+
+msgid "Distance to this pick-up location: %1.1f miles."
+msgstr "Расстояние до этой точки доставки: %1.1f миль."
+
+msgid "Delivery by city"
+msgstr "Доставка по городам"
+
+msgid "Payments by type"
+msgstr "Платежи по видам"
+
+msgid "Delivery statuses"
+msgstr "Статусы доставки"
+
+msgid "Number of shipments per day"
+msgstr "Количество отгрузок в сутки"
+
+msgid "Store ID"
+msgstr "ID магазина"
+
+msgid "The secret key"
+msgstr "Секретный ключ"
+
+msgid "Debug mode title"
+msgstr "Режим отладки"
+
+msgid "Debug mode description"
+msgstr "(запись логов для выявления ошибок в работе)"
